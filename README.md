@@ -1,2 +1,2 @@
 # The_Little_Red_Box
-The Little Red Box contains a Photon with attached soil moisture, soil temperature and a UV/IR/Visible light sensor. It uploads data to data.sparkfun.com and sweet.io
+The Little Red Box contains a Photon from particle.io with attached soil moisture, soil temperature and a UV/IR/Visible light sensor. It uploads data to data.sparkfun.com and dweet.io for storage. The Phant server at sparkfun allows viewing of tabular time stamped data and supports data downloads in a variety of formats to include csv files that can easily be imported into Excel spreadsheet. Freeboard.io can be used to pull data from dweet.io and allows the creation of a variety of custom graphic displays.
