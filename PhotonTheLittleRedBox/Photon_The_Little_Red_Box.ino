@@ -35,7 +35,7 @@
 #include "SparkFunMAX17043.h" // Include the SparkFun MAX17043 library for battery state
 double voltage = 0; // Variable to keep track of LiPo voltage
 double soc = 0; // Variable to keep track of LiPo state-of-charge (SOC)
-bool alert; // Variable to keep track of whether alert has been triggered
+int alert = 0; // Variable to keep track of whether alert has been triggered
 
 
 #define ONE_WIRE_BUS D4
